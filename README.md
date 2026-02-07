@@ -234,12 +234,12 @@ freelance-marketplace/
 
 ## 🚀 Deployment
 
-### Backend Deployment (Render/Railway)
+### Backend Deployment (Render)
 1. Connect your GitHub repository
 2. Set environment variables
 3. Deploy the server directory
 
-### Frontend Deployment (Vercel/Netlify)
+### Frontend Deployment (Vercel)
 1. Connect your GitHub repository
 2. Set build command: `npm run build`
 3. Set environment variables
